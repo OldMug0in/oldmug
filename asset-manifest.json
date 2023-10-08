@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/oldmug/static/css/main.72d9c8f5.css",
-    "main.js": "/oldmug/static/js/main.e4616c6e.js",
-    "static/media/Font.ttf": "/oldmug/static/media/Font.94f2f163d4b698242fef.ttf",
-    "index.html": "/oldmug/index.html",
-    "main.72d9c8f5.css.map": "/oldmug/static/css/main.72d9c8f5.css.map",
-    "main.e4616c6e.js.map": "/oldmug/static/js/main.e4616c6e.js.map"
+    "main.css": "/static/css/main.af2a2453.css",
+    "main.js": "/static/js/main.e4616c6e.js",
+    "static/media/Font.ttf": "/static/media/Font.94f2f163d4b698242fef.ttf",
+    "index.html": "/index.html",
+    "main.af2a2453.css.map": "/static/css/main.af2a2453.css.map",
+    "main.e4616c6e.js.map": "/static/js/main.e4616c6e.js.map"
   },
   "entrypoints": [
-    "static/css/main.72d9c8f5.css",
+    "static/css/main.af2a2453.css",
     "static/js/main.e4616c6e.js"
   ]
 }
