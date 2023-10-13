@@ -33,7 +33,7 @@ function NavBar() {
           <span className="line"></span>
         </div>
         <div className="logo">
-          <h2>OldMug.in</h2>
+          <h2>OM</h2>
         </div>
         <div className="mid" ref={expandMid}>
           <div className="menu" ref={expandMenu}>
